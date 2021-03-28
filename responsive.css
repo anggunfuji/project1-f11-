@@ -16,8 +16,26 @@
     .profil {
         height: 1800px;
     }
+    
+    /*about us dan bagian tengah*/
+    .about-us-icon {
+        display: flex;
+        flex-wrap: wrap;
+    }
 
+    .about-us-icon h2 {
+        font-size: 26px
+    }
+
+    .notes {
+        width: 100%;
+    }
+
+    .icons {
+        width: 100%;
+    }
 }
+
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
@@ -46,6 +64,16 @@
     span.menu-icon {
         display: block;
     }
+    
+    /*about us dan bagian tengah*/
+    .about-us-icon h2 {
+        font-size: 20px
+    }
+
+    .notes {
+        width: 100%;
+    }
+    
     /*   css profil   */
      .person {
         padding-left: 2%;
