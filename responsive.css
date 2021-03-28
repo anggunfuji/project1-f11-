@@ -1,0 +1,36 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+    .banner h1 {
+        font-size: 32px;
+    }
+
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+    .header-right {
+        display: none;
+    }
+
+    .banner {
+        text-align: center;
+    }
+
+    .banner h1 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    .banner p {
+        font-size: 12px;
+        line-height: 5px;
+    }
+
+    .btn {
+        width: 100%;
+    }
+
+    span.menu-icon {
+        display: block;
+    }
+}
