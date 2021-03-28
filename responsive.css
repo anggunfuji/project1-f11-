@@ -1,7 +1,7 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
     .banner h1 {
-        font-size: 36px;
+        font-size: 32px;
     }
     /*   css profil   */
     .person {
@@ -30,7 +30,7 @@
     }
 
     .banner h1 {
-        font-size: 36px;
+        font-size: 20px;
         line-height: 28px;
     }
 
