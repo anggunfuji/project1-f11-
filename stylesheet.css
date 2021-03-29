@@ -404,6 +404,9 @@ span.menu-icon {
     height: 200px;
 }
 
+.footers ul {
+    margin-top: 20px;
+}
 
 .footers ul li {
     list-style: none;
