@@ -1,91 +1,92 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
-    .banner h1 {
-        font-size: 32px;
-    }
-    /*   css profil   */
-    .person {
-        padding-left: 3%;
-        padding-right: 3%;
-    }
-    .person-foto {
-        width: 50%;
-        margin-bottom: 50px;
-    }
+  .banner h1 {
+    font-size: 32px;
+  }
+  /*   css profil   */
+  .person {
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+  .person-foto {
+    width: 50%;
+    margin-bottom: 50px;
+  }
 
-    .profil {
-        height: 1800px;
-    }
-    
-    /*about us dan bagian tengah*/
-    .about-us-icon {
-        display: flex;
-        flex-wrap: wrap;
-    }
+  .profil {
+    height: 1800px;
+  }
 
-    .about-us-icon h2 {
-        font-size: 26px
-    }
+  /*about us dan bagian tengah*/
+  .about-us-icon {
+    display: flex;
+    flex-wrap: wrap;
+  }
 
-    .notes {
-        width: 100%;
-    }
+  .about-us-icon
+    h2 {
+    font-size: 26px;
+  }
 
-    .icons {
-        width: 100%;
-    }
+  .notes {
+    width: 100%;
+  }
+
+  .icons {
+    width: 100%;
+  }
 }
-
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
-    .header-right {
-        display: none;
-    }
+  .header-right {
+    display: none;
+  }
 
-    .banner {
-        text-align: center;
-    }
+  .banner {
+    text-align: center;
+  }
 
-    .banner h1 {
-        font-size: 20px;
-        line-height: 28px;
-    }
+  .banner h1 {
+    font-size: 20px;
+    line-height: 28px;
+  }
 
-    .banner p {
-        font-size: 12px;
-        line-height: 5px;
-    }
+  .banner p {
+    font-size: 12px;
+    line-height: 5px;
+  }
 
-    .btn {
-        width: 100%;
-    }
+  .btn {
+    width: 100%;
+  }
 
-    span.menu-icon {
-        display: block;
-    }
-    
-    /*about us dan bagian tengah*/
-    .about-us-icon h2 {
-        font-size: 20px
-    }
+  span.menu-icon {
+    display: block;
+  }
 
-    .notes {
-        width: 100%;
-    }
-    
-    /*   css profil   */
-     .person {
-        padding-left: 2%;
-        padding-right: 2%;
-    }
+  /*about us dan bagian tengah*/
+  .about-us-icon
+    h2 {
+    font-size: 20px;
+  }
 
-    .person-foto {
-        width: 100%;
-        margin-bottom: 20px;
-    }
+  .notes {
+    width: 100%;
+  }
 
-    .profil {
-        height: 3200px;
-    }
+  /*   css profil   */
+  .person {
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+
+  .person-foto {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .profil {
+    height: 2700px;
+  }
 }
