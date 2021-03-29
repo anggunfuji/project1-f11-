@@ -255,19 +255,19 @@ span.menu-icon {
 
 .learn {
     opacity: 0.5;
-    color: white;
+    color: #ffbf00;
     border-radius: 4px;
     padding: 10px 20px;
     transition: ease-out 0.3s;
     font-size: 14px;
     outline: none;
-    border: 2px solid #ffbf00;
+    border: 2px solid white;
     position: relative;
     z-index: 1;
 }
 
 .learn:hover {
-    color: rgb(92, 92, 92);
+    color: #ffbf00;
     cursor: pointer;
     opacity: 1;
 }
@@ -281,7 +281,7 @@ span.menu-icon {
     bottom: 0;
     opacity: 0;
     content: "";
-    background-color: #ffbf00;
+    background-color: white;
 }
 
 .learn:hover::before {
