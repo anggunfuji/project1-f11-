@@ -235,7 +235,7 @@ span.menu-icon {
     background-image: linear-gradient(rgba(44, 28, 28, 0.5), rgba(46, 46, 46, 0.5)), url(images/background-body.jpg);
     color: white;
 }
-
+/*
 .notes h3 {
     text-transform: uppercase;
     color: white;
@@ -253,7 +253,7 @@ span.menu-icon {
     font-size: 14px;
     font-weight: normal;
 }
-
+*/
 .learn {
     opacity: 0.5;
     color: #ffbf00;
