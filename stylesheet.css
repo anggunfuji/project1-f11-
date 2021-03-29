@@ -133,6 +133,7 @@ header {
 .profile {
     opacity: 0.5;
     color: white;
+    font-weight: bold;
     border-radius: 4px;
     padding: 10px 20px;
     transition: ease-out 0.3s;
