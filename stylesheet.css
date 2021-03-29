@@ -386,14 +386,33 @@ span.menu-icon {
     padding: 0px 10px;
     color: white;
 }
-
-/* Footer */
+/* footer-
 .footer {
   height:500px;
-  background-color:rgba(0, 0, 0, 0.6)
+  background-color:#ffbf00;
 }
 
 .footer h2 {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   color: white;
+}
+*/
+
+/* footer kuning*/
+.footers {
+    background-color: #ffbf00;
+    height: 200px;
+}
+
+
+.footers ul li {
+    list-style: none;
+}
+
+.note-bawah {
+    margin-top: 40px;
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: uppercase;
 }
